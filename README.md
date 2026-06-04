@@ -1,0 +1,1 @@
+## Setup MySQL server first, fill in server info on the .env then run gui.py
